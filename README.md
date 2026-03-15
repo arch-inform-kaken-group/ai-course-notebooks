@@ -11,13 +11,13 @@ Both Japanese and English versions are provided.
 
 ---
 
-## 📚 内容 / Contents
+## 内容 / Contents
 
 TODO
 
 ---
 
-## 📂 ディレクトリ構成 / Directory Structure
+## ディレクトリ構成 / Directory Structure
 <br>
 ai-course-notebooks/<br>
 ├── notebooks/<br>
@@ -27,13 +27,13 @@ ai-course-notebooks/<br>
 
 ---
 
-## ⚠️ 注意事項 / Notes
+## 注意事項 / Notes
 - 英語版は自動翻訳のため，翻訳に誤りを含む可能性があります．
 - English version is auto-translated; terminology may not be perfect.
 
 ---
 
-## 📜 ライセンス / License
+## ライセンス / License
 このリポジトリは **MIT License** で公開しています．<br>
 This repository is primarily licensed under the **MIT License**. 
 
