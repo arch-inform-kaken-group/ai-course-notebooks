@@ -21,9 +21,9 @@ TODO
 <br>
 ai-course-notebooks/<br>
 ├── notebooks/<br>
-│   ├── ja/    # 日本語版ノートブック  Japanese notebooks<br>
-│   └── en/    # 英語版ノートブック  English notebooks<br>
-└── requirements.txt<br>
+│   ├── ja_2026/    # 日本語版ノートブック  Japanese notebooks<br>
+│   └── en_2026/    # 英語版ノートブック  English notebooks<br>
+└── README.md<br>
 
 ---
 
