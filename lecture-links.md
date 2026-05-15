@@ -1,5 +1,5 @@
 # 関連リンク/Lecture Links
-このファイルでは，講義で使用したデモサイト，参考資料，ツール，その他の関連 URL を纏めています。 
+このファイルでは，講義で使用したデモサイト，参考資料，ツール，その他の関連 URL を纏めています。 <br>
 This file summarizes URLs for demo sites, reference materials, and other resources used in the lectures.
 
 NN Demos
