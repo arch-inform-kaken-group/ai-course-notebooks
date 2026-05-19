@@ -1,0 +1,31 @@
+name: Test Sphinx build
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install -r .github/requirements-docs.txt
+
+      - name: Build Sphinx site
+        run: |
+          sphinx-build -b html notebooks _site
+          touch _site/.nojekyll
+
+      - name: Upload built site for preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: sphinx-site-preview
+          path: _site
