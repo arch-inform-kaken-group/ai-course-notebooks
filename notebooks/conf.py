@@ -41,17 +41,12 @@ html_context = {
 }
 
 def setup(app):
-    app.add_js_file(
-    "https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"
-    )
+    app.add_js_file("https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js")
 
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 
 nb_mime_priority_overrides = [
-    ("html", "application/vnd.plotly.v1+json", None),
-    ("html", "application/javascript", None),
+    ("html", "application/vnd.plotly.v1+json", None),
+    ("html", "application/javascript", None),
 ]
-
-
-
