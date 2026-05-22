@@ -36,6 +36,10 @@ html_theme_options = {
     },
 }
 
+html_js_files = [
+    "https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js",
+]
+
 html_context = {
     "default_mode": "light",
 }
