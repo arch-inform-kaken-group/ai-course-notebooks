@@ -22,14 +22,14 @@ html_theme_options = {
     "repository_branch": "main",
     "path_to_docs": "notebooks",
 
-    # 右上ボタン類
+    # 右上ボタン
     "use_repository_button": True,
     "use_source_button": True,
     "use_edit_page_button": True,
     "use_issues_button": True,
     "use_download_button": True,
 
-    # Colab 起動ボタン
+    # Colab 起動
     "launch_buttons": {
         "colab_url": "https://colab.research.google.com",
         "notebook_interface": "jupyterlab",
@@ -43,4 +43,15 @@ html_context = {
 def setup(app):
     app.add_js_file(
     "https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"
-)
+    )
+
+html_static_path = ["_static"]
+html_css_files = ["custom.css"]
+
+nb_mime_priority_overrides = [
+    ("html", "application/vnd.plotly.v1+json", None),
+    ("html", "application/javascript", None),
+]
+
+
+
