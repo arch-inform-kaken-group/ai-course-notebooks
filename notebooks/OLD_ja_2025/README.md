@@ -14,4 +14,4 @@ TODO
 | 社会情報システム_2025_11_lost_and_found.ipynb | U-Net による道路セグメンテーション | 画像領域分割（セマンティック・セグメンテーション） | U-Net | LostAndFound データセットを用いたU-Netによる教師あり画像領域分割 |
 | 社会情報システム_2025_10_VisionLanguageModel.ipynb | Phi-3 Vision（VLM）による画像推論 | マルチモーダル推論 / 画像 | Phi-3 Vision（VLM） | Phi-3 Vision の Vision-Language Model を用いた画像を入力としたマルチモーダル推論 |
 | 社会情報システム_2025_12_KMNIST.ipynb | AE / VAE による画像再構成と生成 | 教師なし / Kuzushiji-MNIST | AE、VAE | Kuzushiji-MNIST データセットを用いたオートエンコーダ（AE）と変分オートエンコーダ（VAE）による画像再構成・生成 |
-| 13.ipynb | CycleGAN による夏→冬の画像変換 | 画像変換　| CycleGAN | TensorFlow Datasets の summer-to-winter データセットを用いたCycleGAN によるペアなし画像-to-画像変換|
+| 社会情報システム_2025_13_CycleGAN.ipynb | CycleGAN による夏→冬の画像変換 | 画像変換　| CycleGAN | TensorFlow Datasets の summer-to-winter データセットを用いたCycleGAN によるペアなし画像-to-画像変換|
