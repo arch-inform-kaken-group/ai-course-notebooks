@@ -37,10 +37,10 @@ html_theme_options = {
 }
 
 html_context = {
-    "default_mode": "light",
+    "default_mode": "light",
 }
 
 def setup(app):
-    app.add_js_file(
-        "https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"
-    )
+    app.add_js_file(
+    "https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"
+)
