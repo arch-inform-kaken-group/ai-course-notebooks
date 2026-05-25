@@ -2,6 +2,10 @@
 
 このページでは，講義用Colabノートブックから生成したHTMLを公開しています。
 
+This page publishes HTML pages generated from the Colab notebooks used in the course.
+
+GitHub repository: https://github.com/arch-inform-kaken-group/ai-course-notebooks
+
 ```{toctree}
 ---
 maxdepth: 1
