@@ -17,6 +17,7 @@ Both Japanese and English versions are provided.
 The course materials and some interactive plots are available through the GitHub Pages site below.
 
 https://arch-inform-kaken-group.github.io/ai-course-notebooks/
+
 ---
 
 ## 内容 / Contents
