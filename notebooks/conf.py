@@ -40,8 +40,11 @@ html_context = {
     "default_mode": "light",
 }
 
-def setup(app):
-    app.add_js_file("https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js")
+html_js_files = [
+    "https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"
+]
+#def setup(app):
+#    app.add_js_file("https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js")
 
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
