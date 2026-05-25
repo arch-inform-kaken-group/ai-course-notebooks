@@ -11,6 +11,14 @@ Both Japanese and English versions are provided.
 
 ---
 
+## 閲覧用サイト / Web-browsable site
+
+このリポジトリの教材および一部の動的グラフは，GitHub Pages 上の閲覧用サイトから確認できます。  
+The course materials and some interactive plots are available through the GitHub Pages site below.
+
+https://arch-inform-kaken-group.github.io/ai-course-notebooks/
+---
+
 ## 内容 / Contents
 
 TODO
