@@ -31,4 +31,5 @@ en_2026/MachineLearning_2026_03_FashionMNIST
 en_2026/MachineLearning_2026_04_CaliforniaHousing
 en_2026/MachineLearning_2026_05_cats_vs_dogs
 en_2026/MachineLearning_2026_06_SmartWatch
+en_2026/MachineLearning_2026_ex1_actor_critic
 ```
