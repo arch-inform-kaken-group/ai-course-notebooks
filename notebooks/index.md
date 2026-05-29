@@ -18,6 +18,7 @@ ja_2026/社会情報システム_2026_03_FashionMNIST
 ja_2026/社会情報システム_2026_04_CaliforniaHousing
 ja_2026/社会情報システム_2026_05_cats_vs_dogs
 ja_2026/社会情報システム_2026_06_SmartWatch
+ja_2026/社会情報システム_2026_09_securities_report
 ```
 ```{toctree}
 ---
@@ -31,6 +32,7 @@ en_2026/MachineLearning_2026_03_FashionMNIST
 en_2026/MachineLearning_2026_04_CaliforniaHousing
 en_2026/MachineLearning_2026_05_cats_vs_dogs
 en_2026/MachineLearning_2026_06_SmartWatch
+en_2026/MachineLearning_2026_09_AmazonReview
 en_2026/MachineLearning_2026_ex01_ActorCritic
 en_2026/MachineLearning_2026_ex02_BayesianNetworkClassification
 en_2026/MachineLearning_2026_ex03_SupportVectorMachines
