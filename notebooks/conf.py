@@ -25,8 +25,8 @@ html_theme_options = {
     # 右上ボタン
     "use_repository_button": True,
     "use_source_button": True,
-    "use_edit_page_button": True,
-    "use_issues_button": True,
+    "use_edit_page_button": False,
+    "use_issues_button": False,
     "use_download_button": True,
 
     # Colab 起動
