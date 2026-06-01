@@ -19,6 +19,7 @@ ja_2026/社会情報システム_2026_04_CaliforniaHousing
 ja_2026/社会情報システム_2026_05_cats_vs_dogs
 ja_2026/社会情報システム_2026_06_SmartWatch
 ja_2026/社会情報システム_2026_09_securities_report
+ja_2026/社会情報システム_2026_12_KMNIST
 ```
 ```{toctree}
 ---
