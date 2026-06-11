@@ -9,6 +9,9 @@ Topics include **Machine Learning, Deep Learning, and Large Language Models (LLM
 日本語版と英語版のノートブックがあります． <br>
 Both Japanese and English versions are provided.
 
+英語版は自動翻訳のため，翻訳に誤りを含む可能性があります．<br>
+English version is **auto-translated**; terminology may not be perfect.
+
 ---
 
 ## 閲覧用サイト / Web-browsable site
@@ -33,12 +36,6 @@ ai-course-notebooks/<br>
 │   ├── ja_2026/    # 日本語版ノートブック  Japanese notebooks<br>
 │   └── en_2026/    # 英語版ノートブック  English notebooks<br>
 └── README.md<br>
-
----
-
-## 注意事項 / Notes
-- 英語版は自動翻訳のため，翻訳に誤りを含む可能性があります．
-- English version is auto-translated; terminology may not be perfect.
 
 ---
 
